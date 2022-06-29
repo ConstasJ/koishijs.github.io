@@ -1,0 +1,1 @@
+const e={key:"v-39bb71ae",path:"/manual/starter/docker.html",title:"\u4F7F\u7528 Docker",lang:"en-US",frontmatter:{sidebarDepth:2,redirectFrom:["/guide/misc/docker.md"]},excerpt:"",headers:[],git:{updatedTime:1656324382e3},filePathRelative:"manual/starter/docker.md"};export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as n,b as o}from"./app.2aea50e6.js";const s={},c={id:"\u56FD\u9645\u5316-i18n",tabindex:"-1"},_=n("a",{class:"header-anchor",href:"#\u56FD\u9645\u5316-i18n","aria-hidden":"true"},"#",-1),r=o(" \u56FD\u9645\u5316 (I18n)"),i=[_,r];function d(h,f){return t(),a("h1",c,i)}var m=e(s,[["render",d],["__file","i18n.html.vue"]]);export{m as default};
